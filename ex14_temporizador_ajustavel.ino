@@ -3,7 +3,7 @@
 
 #define LED     13  //definição do LED
 #define BUZZER  11  //definição do BUZZER
-#define BOTAO   2   //definição do Botão
+#define BOTAO   12  //definição do Botão
 #define POT     A0  //definição do potenciômetro
 
 unsigned int tempo;
