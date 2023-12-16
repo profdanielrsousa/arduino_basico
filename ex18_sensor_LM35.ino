@@ -15,6 +15,6 @@ void loop()
   ent_analogica = analogRead(A0);
   temperatura = ((float)ent_analogica * 110.0) / 1023.0;
   Serial.print("Sensor = ");
-  Serial.print(temperatura);
+  Serial.println(temperatura);
   delay(250);
 }
