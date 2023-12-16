@@ -2,8 +2,8 @@
  * (DISPLAY 7 SEGMENTOS - ANODO COMUM + ADC)
    DANIEL RODRIGUES DE SOUSA 05/11/2022 */
 
-#define SEG_A 0 //definição do display_seg a
-#define SEG_B 1 //definição do display_seg b
+#define SEG_A 9 //definição do display_seg a
+#define SEG_B 10//definição do display_seg b
 #define SEG_C 2 //definição do display_seg c
 #define SEG_D 3 //definição do display_seg d
 #define SEG_E 4 //definição do display_seg e
