@@ -1,5 +1,5 @@
 /* DÉCIMO NONO PROGRAMA (SENSOR DE TEMPERATURA NTC)
-   REFERÊNCIA: https://www.filipeflop.com/blog/termistor-ntc-arduino/
+   REFERÊNCIA: https://www.makerhero.com/blog/termistor-ntc-arduino/
    DANIEL RODRIGUES DE SOUSA 11/11/2022 */
 
 #define pinTermistor  A0
