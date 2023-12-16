@@ -11,6 +11,6 @@ void setup()
 void loop()
 {
   ent_analogica = analogRead(A0);
-  Serial.print(ent_analogica);
+  Serial.println(ent_analogica);
   delay(250);
 }
